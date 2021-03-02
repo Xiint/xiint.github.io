@@ -1,0 +1,33 @@
+﻿{
+	"version": 1614608159,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"images/tiledbackground.png",
+		"images/spawner-sheet0.png",
+		"images/car-sheet0.png",
+		"images/car2-sheet0.png",
+		"images/car3-sheet0.png",
+		"images/car4-sheet0.png",
+		"images/car5-sheet0.png",
+		"images/variator-sheet0.png",
+		"images/carspawner-sheet0.png",
+		"images/spawner2-sheet0.png",
+		"images/spawner3-sheet0.png",
+		"images/spawner4-sheet0.png",
+		"images/spawner5-sheet0.png",
+		"images/destroyer-sheet0.png",
+		"images/collector-sheet0.png",
+		"images/collector2-sheet0.png",
+		"images/collector3-sheet0.png",
+		"images/collector4-sheet0.png",
+		"images/collector5-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
